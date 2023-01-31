@@ -1,0 +1,71 @@
+
+    /* font-family: 'Cairo', sans-serif; */
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+h2{
+        font-family: 'Cairo', sans-serif;
+
+}
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Cairo', sans-serif;
+font-size: 15px;
+font-weight: bold;
+border-radius: 7px;
+
+}
+button{
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(12, 87, 104);
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+margin-bottom: 15px;
+color: white;
+border-radius: 10px;
+
+
+}
+label{
+    padding: 15px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: tomato;
+    font-family: 'Cairo', sans-serif;
+font-weight: bold;
+}
+/* products css */
+/* h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.card{
+    float: right;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+}
+main{
+    width: 60%;
+} */
